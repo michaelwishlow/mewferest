@@ -31,6 +31,8 @@ gem 'simple_form', '~> 3.0', '>= 3.0.2'
 
 gem 'devise', '~> 3.4.1'
 
+gem 'paperclip', '~> 4.2'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
